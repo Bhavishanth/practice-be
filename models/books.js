@@ -13,7 +13,7 @@ const modelSchema = mongoose.Schema({
 })
 
     
-module.exports = mongoose.model('booksnew', modelSchema);
+module.exports = mongoose.model('booksnews', modelSchema);
 
 
 
